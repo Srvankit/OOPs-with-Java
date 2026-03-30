@@ -1,10 +1,10 @@
-**🚀 Object-Oriented Programming in Java**
+#🚀 Object-Oriented Programming in Jav
 
 📌 Overview
 
 This repository showcases my journey of mastering Object-Oriented Programming (OOP) in Java through hands-on coding and practical implementations.
 
-Rather than focusing only on theory, I built multiple programs to deeply understand how OOP concepts work in real-world scenarios.
+Rather than focusing solely on theory, I built multiple programs to understand how OOP concepts work in real-world scenarios deeply.
 
 🎯 Key Highlights
 
